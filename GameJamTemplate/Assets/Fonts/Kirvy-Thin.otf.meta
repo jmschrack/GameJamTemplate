@@ -1,0 +1,25 @@
+fileFormatVersion: 2
+guid: cfa185745d8177040b65968c63276da5
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Kirvy
+  fontNames:
+  - Kirvy
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 703051b0e5db6ea4c8cbd319f8b8deca, type: 3}
+  - {fileID: 12800000, guid: 3aef1221dec3938479351a2417a98d1d, type: 3}
+  - {fileID: 12800000, guid: 3343a3dde637e5f42ba03ed964f3a401, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

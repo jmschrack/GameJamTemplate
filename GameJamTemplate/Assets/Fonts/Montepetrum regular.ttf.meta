@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 763f6a9cf823cc84fb56b8471222b5fb
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Montepetrum
+  fontNames:
+  - Montepetrum
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 70a87f72ecd57da429ee782daad064fb, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

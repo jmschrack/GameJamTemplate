@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: f5a0714ff86573043ac1e9e9396379fe
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Shellahera Script Demo
+  fontNames:
+  - Shellahera Script Demo
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e903fbfbc72588444a5f7a4cfc72fc5d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
