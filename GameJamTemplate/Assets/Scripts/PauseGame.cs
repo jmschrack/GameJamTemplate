@@ -31,10 +31,11 @@ public class PauseGame : GlobalEventBehavior
         //You could play like an audio cue or prompt to save the game or whatever
         GameManager.QuitGame();
     }
+    
     public override void OnPause(){
+        
         isPaused=true;
         PauseScreenCanvas.SetActive(true);
-        
 
         /*
         Setting time scale to 0 stops the game engine's clock.  So anything that is dependent on time will stop.
